@@ -12,3 +12,4 @@ it('render correctly Icon component', () => {
   expect(iconComponent).toMatchSnapshot();
 });
 
+
