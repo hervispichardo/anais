@@ -6,7 +6,7 @@ const Ripple = styled.div`
   ${({ ripple }) => ripple && `
     border-radius: 50%;
     cursor: pointer;
-    padding: ${ ({ padding }) => padding || '5px'};
+    padding: 5px;
     display: inline-block;
     background-position: center;
     transition: background 0.8s;

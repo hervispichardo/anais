@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types'
 import Icons from './icons'
-import { Ripple } from './Icon.style'
+import { Ripple } from './style'
 
 
 const Icon = ({ ripple, style, color, size, type, badge, badgeColor }) => {
